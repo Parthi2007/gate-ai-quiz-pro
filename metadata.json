@@ -1,0 +1,6 @@
+{
+  "name": "GATE AI Quiz Pro",
+  "description": "An intelligent GATE Computer Science preparation platform that generates technical MCQs using AI, featuring real-time marking, progress tracking, and detailed explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI-powered question generation", "GATE marking system", "Performance analytics"]
+}
